@@ -1,1 +1,122 @@
-<h1>Hello!</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Jay Lee Portfolio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f7f7f7;
+      color: #333;
+    }
+    header {
+      background: #111;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      background: #222;
+      padding: 1rem 0;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 4rem 2rem;
+      max-width: 1000px;
+      margin: auto;
+    }
+    .hero {
+      text-align: center;
+      padding: 5rem 2rem;
+      background: #ddd;
+    }
+    .hero h1 {
+      font-size: 3rem;
+      margin-bottom: 1rem;
+    }
+    .hero p {
+      font-size: 1.2rem;
+      max-width: 600px;
+      margin: auto;
+    }
+    .projects {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 2rem;
+    }
+    .project-card {
+      background: white;
+      padding: 1rem;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    footer {
+      background: #111;
+      color: white;
+      text-align: center;
+      padding: 2rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Jay Lee</h1>
+    <p>Robotics & Mechanical Engineer | Portfolio</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section class="hero">
+    <h1>Hello, I'm Jay</h1>
+    <p>I design robotic systems, build tactile sensors, and prototype smart machines.</p>
+  </section>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I’m a mechanical engineer with a passion for robotics and human-machine interaction. I've worked on solar car brake systems, robotic hands, and tactile sensors at the MMINT Lab.</p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="projects">
+      <div class="project-card">
+        <h3>Robotic Hand</h3>
+        <p>Designed and integrated a 16-DOF robotic hand using ROS.</p>
+      </div>
+      <div class="project-card">
+        <h3>Sponge Tactile Sensor</h3>
+        <p>Developed a sensor for soft object detection using custom electronics.</p>
+      </div>
+      <div class="project-card">
+        <h3>Solar Car Brake System</h3>
+        <p>Led the brake team and built a custom caliper for the World Solar Challenge.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:jaylee@email.com">jaylee@email.com</a></p>
+    <p>LinkedIn: <a href="#">linkedin.com/in/jaylee</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Jay Lee</p>
+  </footer>
+
+</body>
+</html>
