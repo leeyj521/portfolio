@@ -55,7 +55,7 @@
   gap: 5px;
   align-items: flex-start;
   justify-content: flex-start;
-  width: 200px;
+  width: 222px;
   position: absolute;
   left: 841px;
   top: 472px;
@@ -2021,29 +2021,240 @@
   letter-spacing: 0.1em;
   font-weight: 400;
   position: absolute;
-  left: 800px;
-  top: 5710px;
+  left: 747px;
+  top: 5619px;
   width: 300px;
+  height: 38px;
+}
+.senior-capstone-project-robotic-hand {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 988px;
+  top: 5610px;
+  width: 154px;
+  height: 59px;
 }
 .image-66 {
   border-radius: 10px;
-  width: 265.72px;
-  height: 200px;
+  width: 200px;
+  height: 151px;
   position: absolute;
-  left: 798px;
-  top: 5499px;
+  left: 747px;
+  top: 5467px;
   object-fit: cover;
-  aspect-ratio: 265.72/200;
+  aspect-ratio: 200/151;
 }
 .group-63 {
   width: 857px;
-  height: 1928px;
+  height: 525px;
   position: static;
 }
-.group-61 {
-  width: 527px;
-  height: 232px;
+.group-60 {
+  width: 857px;
+  height: 525px;
   position: static;
+}
+.group-58 {
+  width: 857px;
+  height: 477px;
+  position: static;
+}
+.group-55 {
+  width: 824px;
+  height: 234px;
+  position: static;
+}
+.frame-30 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 180px;
+  top: 5797px;
+}
+.image-91 {
+  flex-shrink: 0;
+  width: 319px;
+  height: 208px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 319/208;
+}
+.image-72 {
+  flex-shrink: 0;
+  width: 257px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 257/200;
+}
+.group-54 {
+  width: 820px;
+  height: 22px;
+  position: static;
+}
+.cad-design {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 5771px;
+}
+.adams-motion-power-analysis {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 539px;
+  top: 5771px;
+}
+.pcb-rerouting {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 875px;
+  top: 5771px;
+}
+.group-57 {
+  width: 857px;
+  height: 231px;
+  position: static;
+}
+.frame-31 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 180px;
+  top: 6048px;
+}
+.image-71 {
+  flex-shrink: 0;
+  width: 455px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 455/200;
+}
+.image-73 {
+  flex-shrink: 0;
+  width: 362px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 362/200;
+}
+.group-56 {
+  width: 642px;
+  height: 22px;
+  position: static;
+}
+.bills-of-materials {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 675px;
+  top: 6017px;
+}
+.design-requirements {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 6017px;
+}
+.group-59 {
+  width: 774px;
+  height: 38px;
+  position: static;
+}
+.mint-hand-4-finger-robot-hand-module {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 5739px;
+  width: 500px;
+}
+.modified-tilburg-hand-integrating-gel-slim-4-0-on-the-finger {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 557px;
+  top: 5742px;
+}
+.demo-videos {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 557px;
+  top: 5723px;
+}
+.github-repository {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 667px;
+  top: 5723px;
+}
+.shear-field-estimation {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 1037px;
+  top: 5995px;
+}
+.group-61 {
+  position: absolute;
+  inset: 0;
 }
 .electrical-circuit-design {
   color: #000000;
@@ -2054,7 +2265,7 @@
   font-weight: 400;
   position: absolute;
   left: 184px;
-  top: 5739px;
+  top: 6288px;
 }
 .frame-25 {
   display: flex;
@@ -2064,7 +2275,7 @@
   justify-content: flex-start;
   position: absolute;
   left: 180px;
-  top: 5771px;
+  top: 6320px;
 }
 .image-58 {
   flex-shrink: 0;
@@ -2083,9 +2294,8 @@
   aspect-ratio: 150/200;
 }
 .group-52 {
-  width: 751px;
-  height: 507px;
-  position: static;
+  position: absolute;
+  inset: 0;
 }
 .software-integration-ros {
   color: #000000;
@@ -2096,7 +2306,7 @@
   font-weight: 400;
   position: absolute;
   left: 184px;
-  top: 6303px;
+  top: 6852px;
 }
 .group-51 {
   width: 751px;
@@ -2127,7 +2337,7 @@
   font-weight: 400;
   position: absolute;
   left: 559px;
-  top: 6584px;
+  top: 7133px;
 }
 .rviz-integration {
   color: #000000;
@@ -2138,7 +2348,7 @@
   font-weight: 400;
   position: absolute;
   left: 184px;
-  top: 6584px;
+  top: 7133px;
 }
 .frame-28 {
   display: flex;
@@ -2148,7 +2358,7 @@
   justify-content: flex-start;
   position: absolute;
   left: 180px;
-  top: 6610px;
+  top: 7159px;
 }
 .image-62 {
   flex-shrink: 0;
@@ -2188,7 +2398,7 @@
   font-weight: 400;
   position: absolute;
   left: 184px;
-  top: 6335px;
+  top: 6884px;
 }
 .frame-27 {
   display: flex;
@@ -2198,7 +2408,7 @@
   justify-content: flex-start;
   position: absolute;
   left: 180px;
-  top: 6369px;
+  top: 6918px;
 }
 .image-65 {
   flex-shrink: 0;
@@ -2217,9 +2427,8 @@
   aspect-ratio: 468/100;
 }
 .group-62 {
-  width: 767px;
-  height: 232px;
-  position: static;
+  position: absolute;
+  inset: 0;
 }
 .mechanical-design {
   color: #000000;
@@ -2230,7 +2439,7 @@
   font-weight: 400;
   position: absolute;
   left: 184px;
-  top: 6021px;
+  top: 6570px;
 }
 .frame-26 {
   display: flex;
@@ -2240,7 +2449,7 @@
   justify-content: flex-start;
   position: absolute;
   left: 180px;
-  top: 6053px;
+  top: 6602px;
 }
 .image-60 {
   flex-shrink: 0;
@@ -2267,9 +2476,8 @@
   aspect-ratio: 172/200;
 }
 .group-53 {
-  width: 760px;
-  height: 258px;
-  position: static;
+  position: absolute;
+  inset: 0;
 }
 .robot-arm-manipulation {
   color: #000000;
@@ -2280,7 +2488,7 @@
   font-weight: 400;
   position: absolute;
   left: 188px;
-  top: 6860px;
+  top: 7409px;
 }
 .group-68 {
   width: 760px;
@@ -2295,7 +2503,7 @@
   justify-content: flex-start;
   position: absolute;
   left: 184px;
-  top: 6918px;
+  top: 7467px;
 }
 .image-69 {
   flex-shrink: 0;
@@ -2343,7 +2551,7 @@
   font-weight: 400;
   position: absolute;
   left: 180px;
-  top: 6892px;
+  top: 7441px;
 }
 .antipodal-grasping-with-pybullet {
   color: #000000;
@@ -2354,161 +2562,7 @@
   font-weight: 400;
   position: absolute;
   left: 616px;
-  top: 6892px;
-}
-.group-60 {
-  width: 857px;
-  height: 499px;
-  position: static;
-}
-.group-58 {
-  width: 857px;
-  height: 467px;
-  position: static;
-}
-.group-55 {
-  width: 677px;
-  height: 226px;
-  position: static;
-}
-.frame-30 {
-  display: flex;
-  flex-direction: row;
-  gap: 40px;
-  align-items: center;
-  justify-content: flex-start;
-  position: absolute;
-  left: 180px;
-  top: 7226px;
-}
-.image-70 {
-  flex-shrink: 0;
-  width: 346px;
-  height: 200px;
-  position: relative;
-  object-fit: cover;
-  aspect-ratio: 346/200;
-}
-.image-72 {
-  flex-shrink: 0;
-  width: 257px;
-  height: 200px;
-  position: relative;
-  object-fit: cover;
-  aspect-ratio: 257/200;
-}
-.group-54 {
-  width: 673px;
-  height: 22px;
-  position: static;
-}
-.cad-design {
-  color: #000000;
-  text-align: left;
-  font-family: "NotoSans-Regular", sans-serif;
-  font-size: 16px;
-  letter-spacing: 0.1em;
-  font-weight: 400;
-  position: absolute;
-  left: 184px;
-  top: 7200px;
-}
-.adams-motion-power-analysis {
-  color: #000000;
-  text-align: left;
-  font-family: "NotoSans-Regular", sans-serif;
-  font-size: 16px;
-  letter-spacing: 0.1em;
-  font-weight: 400;
-  position: absolute;
-  left: 566px;
-  top: 7200px;
-}
-.group-57 {
-  width: 857px;
-  height: 226px;
-  position: static;
-}
-.frame-31 {
-  display: flex;
-  flex-direction: row;
-  gap: 40px;
-  align-items: center;
-  justify-content: flex-start;
-  position: absolute;
-  left: 180px;
-  top: 7467px;
-}
-.image-71 {
-  flex-shrink: 0;
-  width: 455px;
-  height: 200px;
-  position: relative;
-  object-fit: cover;
-  aspect-ratio: 455/200;
-}
-.image-73 {
-  flex-shrink: 0;
-  width: 362px;
-  height: 200px;
-  position: relative;
-  object-fit: cover;
-  aspect-ratio: 362/200;
-}
-.group-56 {
-  width: 642px;
-  height: 22px;
-  position: static;
-}
-.bills-of-materials {
-  color: #000000;
-  text-align: left;
-  font-family: "NotoSans-Regular", sans-serif;
-  font-size: 16px;
-  letter-spacing: 0.1em;
-  font-weight: 400;
-  position: absolute;
-  left: 675px;
   top: 7441px;
-}
-.design-requirements {
-  color: #000000;
-  text-align: left;
-  font-family: "NotoSans-Regular", sans-serif;
-  font-size: 16px;
-  letter-spacing: 0.1em;
-  font-weight: 400;
-  position: absolute;
-  left: 184px;
-  top: 7441px;
-}
-.group-59 {
-  width: 831px;
-  height: 22px;
-  position: static;
-}
-.on-going-project-4-finger-robot-hand-module {
-  color: #000000;
-  text-align: left;
-  font-family: "NotoSans-DisplayBold", sans-serif;
-  font-size: 16px;
-  letter-spacing: 0.1em;
-  font-weight: 400;
-  position: absolute;
-  left: 184px;
-  top: 7168px;
-  width: 500px;
-}
-.modified-tilburg-hand-integrating-gel-slim-4-0-on-the-finger {
-  color: #000000;
-  text-align: left;
-  font-family: "NotoSans-Regular", sans-serif;
-  font-size: 12px;
-  letter-spacing: 0.1em;
-  font-weight: 400;
-  position: absolute;
-  left: 614px;
-  top: 7171px;
 }
 .biomeme {
   position: absolute;
@@ -3127,4 +3181,69 @@
   left: 780px;
   top: 123px;
   overflow: visible;
+}
+.image-93 {
+  width: 112px;
+  height: 155px;
+  position: absolute;
+  left: 1101px;
+  top: 5610px;
+  object-fit: cover;
+  aspect-ratio: 112/155;
+}
+.image-94 {
+  width: 156px;
+  height: 209px;
+  position: absolute;
+  left: 1023px;
+  top: 5782px;
+  object-fit: cover;
+  aspect-ratio: 156/209;
+}
+.image-95 {
+  width: 241px;
+  height: 150px;
+  position: absolute;
+  left: 956px;
+  top: 5460px;
+  object-fit: cover;
+  aspect-ratio: 241/150;
+}
+.image-97 {
+  width: 170px;
+  height: 122px;
+  position: absolute;
+  left: 861px;
+  top: 5916px;
+  object-fit: cover;
+  aspect-ratio: 170/122;
+}
+.image-96 {
+  width: 106px;
+  height: 138px;
+  position: absolute;
+  left: 817px;
+  top: 5802px;
+  object-fit: cover;
+  aspect-ratio: 106/138;
+}
+.image-98 {
+  width: 89px;
+  height: 88px;
+  position: absolute;
+  left: 934px;
+  top: 5857px;
+  object-fit: cover;
+  aspect-ratio: 89/88;
+}
+.link-to-github {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 718px;
+  top: 655px;
 }
