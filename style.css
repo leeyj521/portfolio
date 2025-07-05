@@ -55,7 +55,7 @@
   gap: 5px;
   align-items: flex-start;
   justify-content: flex-start;
-  width: 222px;
+  width: 234px;
   position: absolute;
   left: 841px;
   top: 472px;
@@ -2039,6 +2039,15 @@
   width: 154px;
   height: 59px;
 }
+.image-95 {
+  width: 241px;
+  height: 150px;
+  position: absolute;
+  left: 956px;
+  top: 5460px;
+  object-fit: cover;
+  aspect-ratio: 241/150;
+}
 .image-66 {
   border-radius: 10px;
   width: 200px;
@@ -2049,24 +2058,33 @@
   object-fit: cover;
   aspect-ratio: 200/151;
 }
+.image-93 {
+  width: 112px;
+  height: 155px;
+  position: absolute;
+  left: 1101px;
+  top: 5610px;
+  object-fit: cover;
+  aspect-ratio: 112/155;
+}
 .group-63 {
-  width: 857px;
-  height: 525px;
+  width: 1018px;
+  height: 550px;
   position: static;
 }
 .group-60 {
-  width: 857px;
-  height: 525px;
+  width: 1018px;
+  height: 550px;
   position: static;
 }
 .group-58 {
-  width: 857px;
-  height: 477px;
+  width: 1018px;
+  height: 502px;
   position: static;
 }
 .group-55 {
-  width: 824px;
-  height: 234px;
+  width: 1018px;
+  height: 282px;
   position: static;
 }
 .frame-30 {
@@ -2094,6 +2112,59 @@
   position: relative;
   object-fit: cover;
   aspect-ratio: 257/200;
+}
+.group-78 {
+  flex-shrink: 0;
+  width: 362px;
+  height: 256px;
+  position: static;
+}
+.image-94 {
+  width: 156px;
+  height: 209px;
+  position: absolute;
+  left: 862px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 156/209;
+}
+.image-97 {
+  width: 170px;
+  height: 122px;
+  position: absolute;
+  left: 700px;
+  top: 134px;
+  object-fit: cover;
+  aspect-ratio: 170/122;
+}
+.image-96 {
+  width: 106px;
+  height: 138px;
+  position: absolute;
+  left: 656px;
+  top: 20px;
+  object-fit: cover;
+  aspect-ratio: 106/138;
+}
+.image-98 {
+  width: 89px;
+  height: 88px;
+  position: absolute;
+  left: 773px;
+  top: 75px;
+  object-fit: cover;
+  aspect-ratio: 89/88;
+}
+.shear-field-estimation {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 870px;
+  top: 211px;
 }
 .group-54 {
   width: 820px;
@@ -2146,7 +2217,7 @@
   justify-content: flex-start;
   position: absolute;
   left: 180px;
-  top: 6048px;
+  top: 6073px;
 }
 .image-71 {
   flex-shrink: 0;
@@ -2178,7 +2249,7 @@
   font-weight: 400;
   position: absolute;
   left: 675px;
-  top: 6017px;
+  top: 6042px;
 }
 .design-requirements {
   color: #000000;
@@ -2189,7 +2260,7 @@
   font-weight: 400;
   position: absolute;
   left: 184px;
-  top: 6017px;
+  top: 6042px;
 }
 .group-59 {
   width: 774px;
@@ -2240,17 +2311,6 @@
   position: absolute;
   left: 667px;
   top: 5723px;
-}
-.shear-field-estimation {
-  color: #000000;
-  text-align: left;
-  font-family: "NotoSans-Regular", sans-serif;
-  font-size: 16px;
-  letter-spacing: 0.1em;
-  font-weight: 400;
-  position: absolute;
-  left: 1037px;
-  top: 5995px;
 }
 .group-61 {
   position: absolute;
@@ -3181,60 +3241,6 @@
   left: 780px;
   top: 123px;
   overflow: visible;
-}
-.image-93 {
-  width: 112px;
-  height: 155px;
-  position: absolute;
-  left: 1101px;
-  top: 5610px;
-  object-fit: cover;
-  aspect-ratio: 112/155;
-}
-.image-94 {
-  width: 156px;
-  height: 209px;
-  position: absolute;
-  left: 1023px;
-  top: 5782px;
-  object-fit: cover;
-  aspect-ratio: 156/209;
-}
-.image-95 {
-  width: 241px;
-  height: 150px;
-  position: absolute;
-  left: 956px;
-  top: 5460px;
-  object-fit: cover;
-  aspect-ratio: 241/150;
-}
-.image-97 {
-  width: 170px;
-  height: 122px;
-  position: absolute;
-  left: 861px;
-  top: 5916px;
-  object-fit: cover;
-  aspect-ratio: 170/122;
-}
-.image-96 {
-  width: 106px;
-  height: 138px;
-  position: absolute;
-  left: 817px;
-  top: 5802px;
-  object-fit: cover;
-  aspect-ratio: 106/138;
-}
-.image-98 {
-  width: 89px;
-  height: 88px;
-  position: absolute;
-  left: 934px;
-  top: 5857px;
-  object-fit: cover;
-  aspect-ratio: 89/88;
 }
 .link-to-github {
   color: #000000;
