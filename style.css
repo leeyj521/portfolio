@@ -1,0 +1,3130 @@
+.main-page,
+.main-page * {
+  box-sizing: border-box;
+}
+.main-page {
+  background: #ffffff;
+  height: 9500px;
+  position: relative;
+  overflow: hidden;
+}
+.intro {
+  position: absolute;
+  inset: 0;
+}
+.jay-lee {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 40px;
+  letter-spacing: 0.15em;
+  font-weight: 400;
+  position: absolute;
+  left: 197px;
+  top: 101px;
+  width: 209px;
+  height: 64px;
+}
+.mechanical-engineering-robotics {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 197px;
+  top: 164px;
+  width: 537px;
+  height: 30px;
+}
+.detailed-technical-portfolio {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 841px;
+  top: 596px;
+}
+.frame-11 {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 200px;
+  position: absolute;
+  left: 841px;
+  top: 472px;
+}
+.work-with-me {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 19px;
+}
+.tel-1-734-590-0595 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 19px;
+}
+.email-jayleey-521-gmail-com {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: relative;
+  width: 210px;
+  height: 19px;
+}
+.ann-arbor-mi {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: relative;
+  width: 200px;
+  height: 19px;
+}
+.hi-i-m-jay-a-mechanical-engineering-student-at-the-university-of-michigan {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 197px;
+  top: 212px;
+  width: 650px;
+  height: 30px;
+}
+.i-worked-as-a-mechanical-engineer-for-the-university-of-michigan-solar-car-team-and-as-an-undergraduate-research-assistant-in-the-manipulation-and-machine-intelligence-lab-where-i-developed-two-tactile-sensor-modules-for-a-robotic-arm-i-also-founded-and-led-the-robotics-project-team-wolver-bot-kickers-contributing-to-the-design-of-a-humanoid-prototype-kinematics-and-overseeing-overall-strategy-and-project-development {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 197px;
+  top: 242px;
+  width: 600px;
+}
+.interests {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Bold", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 700;
+  position: absolute;
+  left: 196px;
+  top: 688px;
+  width: 500px;
+  height: 18px;
+}
+.frame-10 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 616px;
+  position: absolute;
+  left: 189px;
+  top: 717px;
+}
+.group-6 {
+  flex-shrink: 0;
+  width: 850px;
+  height: 119.72px;
+  position: static;
+}
+.rectangle-8 {
+  background: rgba(217, 217, 217, 0.5);
+  border-radius: 10px;
+  width: 850px;
+  height: 117.76px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.mechanical-mechatronics-design {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Bold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  font-weight: 700;
+  position: absolute;
+  left: 16px;
+  top: 10px;
+  width: 691.06px;
+  height: 20.19px;
+}
+.i-am-very-interested-in-robotics-and-complex-mechatronics-system-especially-humanoids-my-experience-includes-4-dof-humanoid-leg-torso-design-with-kinematic-analysis-simulation-6-bar-linkage-cable-actuated-brake-caliper-linkage-piston-design-16-dof-4-finger-robot-arm-gripper-module-design-improvements {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 12px;
+  line-height: 20px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 15px;
+  top: 30px;
+  width: 815.45px;
+  height: 89.72px;
+}
+.i-am-very-interested-in-robotics-and-complex-mechatronics-system-especially-humanoids-my-experience-includes-4-dof-humanoid-leg-torso-design-with-kinematic-analysis-simulation-6-bar-linkage-cable-actuated-brake-caliper-linkage-piston-design-16-dof-4-finger-robot-arm-gripper-module-design-improvements-span {
+}
+.i-am-very-interested-in-robotics-and-complex-mechatronics-system-especially-humanoids-my-experience-includes-4-dof-humanoid-leg-torso-design-with-kinematic-analysis-simulation-6-bar-linkage-cable-actuated-brake-caliper-linkage-piston-design-16-dof-4-finger-robot-arm-gripper-module-design-improvements-span2 {
+  list-style-type: disc;
+  padding-left: 1em;
+}
+.group-7 {
+  flex-shrink: 0;
+  width: 850px;
+  height: 120px;
+  position: static;
+}
+.rectangle-82 {
+  background: rgba(217, 217, 217, 0.5);
+  border-radius: 10px;
+  width: 850px;
+  height: 117.76px;
+  position: absolute;
+  left: 0px;
+  top: 134.72px;
+}
+.control-systems-robotic-manipulation-design {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Bold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  font-weight: 700;
+  position: absolute;
+  left: 16px;
+  top: 144.81px;
+  width: 500px;
+  height: 20.19px;
+}
+.i-really-like-how-mechanical-motions-work-my-experience-includes-learning-dynamic-automatic-control-theories-model-predictive-control-pid-control-etc-forward-inverse-kinematics-motion-analysis-using-reinforcement-learning-robot-arm-trajectory-manipulation-simulation-in-pybullet {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 12px;
+  line-height: 20px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 15px;
+  top: 165px;
+  width: 590px;
+  height: 89.72px;
+}
+.i-really-like-how-mechanical-motions-work-my-experience-includes-learning-dynamic-automatic-control-theories-model-predictive-control-pid-control-etc-forward-inverse-kinematics-motion-analysis-using-reinforcement-learning-robot-arm-trajectory-manipulation-simulation-in-pybullet-span {
+}
+.i-really-like-how-mechanical-motions-work-my-experience-includes-learning-dynamic-automatic-control-theories-model-predictive-control-pid-control-etc-forward-inverse-kinematics-motion-analysis-using-reinforcement-learning-robot-arm-trajectory-manipulation-simulation-in-pybullet-span2 {
+  list-style-type: disc;
+  padding-left: 1em;
+}
+.group-8 {
+  flex-shrink: 0;
+  width: 850px;
+  height: 120px;
+  position: static;
+}
+.rectangle-83 {
+  background: rgba(217, 217, 217, 0.5);
+  border-radius: 10px;
+  width: 850px;
+  height: 120px;
+  position: absolute;
+  left: 0px;
+  top: 269.72px;
+}
+.system-integration-project-management {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Bold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  font-weight: 700;
+  position: absolute;
+  left: 16px;
+  top: 280.01px;
+  width: 500px;
+  height: 20.57px;
+}
+.being-knowledgeable-in-mechanical-systems-machine-learning-and-software-development-i-enjoyed-working-on-system-integration-and-project-management-this-includes-president-of-wolver-bot-kickers-working-on-game-strategy-and-cross-collaboration-between-sub-teams-project-manager-in-biomeme-improving-system-security-and-preparing-for-the-government-funded-projects {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 12px;
+  line-height: 20px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 15px;
+  top: 300.72px;
+  width: 800px;
+}
+.being-knowledgeable-in-mechanical-systems-machine-learning-and-software-development-i-enjoyed-working-on-system-integration-and-project-management-this-includes-president-of-wolver-bot-kickers-working-on-game-strategy-and-cross-collaboration-between-sub-teams-project-manager-in-biomeme-improving-system-security-and-preparing-for-the-government-funded-projects-span {
+}
+.being-knowledgeable-in-mechanical-systems-machine-learning-and-software-development-i-enjoyed-working-on-system-integration-and-project-management-this-includes-president-of-wolver-bot-kickers-working-on-game-strategy-and-cross-collaboration-between-sub-teams-project-manager-in-biomeme-improving-system-security-and-preparing-for-the-government-funded-projects-span2 {
+  list-style-type: disc;
+  padding-left: 1em;
+}
+.group-15 {
+  width: 190px;
+  height: 274px;
+  position: static;
+}
+.project {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.2);
+  border-width: 1px;
+  width: 190px;
+  height: 274px;
+  position: absolute;
+  left: 187px;
+  top: 380.5px;
+}
+.brake-pedal-caliper-mount-canopy-hinge {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 205.9px;
+  top: 422.5px;
+  width: 162.15px;
+  height: 50px;
+}
+.solar-car-team {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Bold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  font-weight: 700;
+  position: absolute;
+  left: 227.79px;
+  top: 395.5px;
+  width: 118.38px;
+  height: 18px;
+}
+.mask-group {
+  width: 189.01px;
+  height: 140px;
+  position: absolute;
+  left: 187px;
+  top: 486.5px;
+  overflow: visible;
+}
+.group-16 {
+  width: 190px;
+  height: 274px;
+  position: static;
+}
+.project2 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.2);
+  border-width: 1px;
+  width: 190px;
+  height: 274px;
+  position: absolute;
+  left: 402px;
+  top: 380.5px;
+}
+._20-dof-robot-kinematics-motion-dynamics {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 419.91px;
+  top: 422.5px;
+  width: 162.15px;
+  height: 50px;
+}
+.wolver-bot-kickers {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Bold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  font-weight: 700;
+  position: absolute;
+  left: 441.79px;
+  top: 395.5px;
+  width: 146.23px;
+  height: 18px;
+}
+.mask-group2 {
+  width: 190px;
+  height: 140px;
+  position: absolute;
+  left: 402px;
+  top: 486.5px;
+  overflow: visible;
+}
+.group-17 {
+  width: 190px;
+  height: 275px;
+  position: static;
+}
+.project3 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.2);
+  border-width: 1px;
+  width: 190px;
+  height: 275px;
+  position: absolute;
+  left: 617px;
+  top: 380px;
+}
+._4-finger-hand-module-sponge-tactile-sensor-robot-arm-control {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 638px;
+  top: 422px;
+  width: 163px;
+  height: 50px;
+}
+.mmint-lab {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Bold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  font-weight: 700;
+  position: absolute;
+  left: 659px;
+  top: 395px;
+  width: 90px;
+  height: 18px;
+}
+.mask-group3 {
+  width: 190px;
+  height: 140px;
+  position: absolute;
+  left: 617px;
+  top: 486px;
+  overflow: visible;
+}
+.mask-group4 {
+  width: 250px;
+  height: 357px;
+  position: absolute;
+  left: 835px;
+  top: calc(50% - 4640px);
+  overflow: visible;
+}
+.frame-24 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 770px;
+  top: 1587px;
+  overflow: hidden;
+}
+.solar-car-team2 {
+  position: absolute;
+  inset: 0;
+}
+.group-37 {
+  width: 561px;
+  height: 294px;
+  position: static;
+}
+.solar-car-team3 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 40px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 245px;
+  top: 1232px;
+  width: 500px;
+  height: 64px;
+}
+.group-35 {
+  width: 544px;
+  height: 190px;
+  position: static;
+}
+.brake-legbox-assembly-2023-world-solar-challenge {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 311px;
+  top: 1362px;
+}
+.brake-caliper-mount-redesign-2024-american-solar-challenge {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 311px;
+  top: 1408px;
+}
+.parking-brake-design-2024-american-solar-challenge {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 311px;
+  top: 1431px;
+}
+.canopy-hinge-design-2024-american-solar-challenge {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 311px;
+  top: 1454px;
+}
+.custom-brake-caliper {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 311px;
+  top: 1477px;
+}
+.fin-system-2025-world-solar-challenge {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 311px;
+  top: 1500px;
+}
+.array-lock-system {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 311px;
+  top: 1385px;
+}
+.project-list {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Bold", sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.15em;
+  font-weight: 700;
+  position: absolute;
+  left: 246px;
+  top: 1336px;
+  width: 150px;
+}
+.line-1 {
+  width: 167px;
+  height: 0px;
+  position: absolute;
+  left: 253.5px;
+  top: 1359px;
+  overflow: visible;
+}
+._2025 {
+  width: 46px;
+  height: 16px;
+  position: static;
+}
+._20252 {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 263px;
+  top: 1500px;
+}
+.ellipse-1 {
+  background: #4a4a4a;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  left: 251px;
+  top: 1506px;
+}
+._2024 {
+  width: 46px;
+  height: 16px;
+  position: static;
+}
+._20242 {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 263px;
+  top: 1431px;
+}
+.ellipse-2 {
+  background: #4a4a4a;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  left: 251px;
+  top: 1436px;
+}
+._2023 {
+  width: 46px;
+  height: 16px;
+  position: static;
+}
+._20232 {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 263px;
+  top: 1385px;
+}
+.ellipse-3 {
+  background: #4a4a4a;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  left: 251px;
+  top: 1390px;
+}
+._2022 {
+  width: 46px;
+  height: 16px;
+  position: static;
+}
+._20222 {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 263px;
+  top: 1362px;
+}
+.ellipse-4 {
+  background: #4a4a4a;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  left: 251px;
+  top: 1367px;
+}
+.group-36 {
+  width: 561px;
+  height: 32px;
+  position: static;
+}
+.race-mechanical-engineer {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 421px;
+  top: 1287px;
+}
+._2024-feb {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 245px;
+  top: 1287px;
+}
+._2024-aug {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 336px;
+  top: 1287px;
+}
+.present {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 336px;
+  top: 1303px;
+}
+._2022-aug {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 245px;
+  top: 1303px;
+}
+.brakes-team-lead-mechanical-systems-engineer {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 421px;
+  top: 1303px;
+}
+.line-3 {
+  width: 10px;
+  height: 0px;
+  position: absolute;
+  left: 318px;
+  top: 1296px;
+  overflow: visible;
+}
+.line-4 {
+  width: 10px;
+  height: 0px;
+  position: absolute;
+  left: 318px;
+  top: 1313px;
+  overflow: visible;
+}
+._1st-in-the-american-solar-challenge-2024-4th-in-the-world-solar-challenge-2023 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 12px;
+  line-height: 20px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 822px;
+  top: 1534px;
+}
+.image-24 {
+  border-radius: 10px;
+  width: 240.87px;
+  height: 223.12px;
+  position: absolute;
+  left: 834px;
+  top: 1303px;
+  object-fit: cover;
+  aspect-ratio: 240.87/223.12;
+}
+.group-38 {
+  width: 898px;
+  height: 2392px;
+  position: static;
+}
+.group-25 {
+  width: 867px;
+  height: 740px;
+  position: static;
+}
+.mechanical-design-hands-on-manufacturing {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 1596px;
+}
+.group-24 {
+  width: 867px;
+  height: 708px;
+  position: static;
+}
+.group-21 {
+  width: 867px;
+  height: 226px;
+  position: static;
+}
+.group-20 {
+  width: 861px;
+  height: 22px;
+  position: static;
+}
+.brake-pedal-assembly {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 186px;
+  top: 1628px;
+}
+.custom-cable-actuated-brake-caliper {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 711px;
+  top: 1628px;
+}
+.frame-12 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 180px;
+  top: 1654px;
+}
+.image-22 {
+  flex-shrink: 0;
+  width: 313px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 313/200;
+}
+.image-23 {
+  flex-shrink: 0;
+  width: 138px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 138/200;
+}
+.image-37 {
+  flex-shrink: 0;
+  width: 245px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 245/200;
+}
+.group-23 {
+  width: 773px;
+  height: 226px;
+  position: static;
+}
+.canopy-upper-interface-hands-on-manufacturing {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 2110px;
+}
+.frame-15 {
+  display: flex;
+  flex-direction: row;
+  gap: 77px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 180px;
+  top: 2136px;
+}
+.image-33 {
+  flex-shrink: 0;
+  width: 321px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 321/200;
+}
+.image-34 {
+  flex-shrink: 0;
+  width: 151px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 151/200;
+}
+.image-35 {
+  flex-shrink: 0;
+  width: 147px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 147/200;
+}
+.group-22 {
+  width: 578px;
+  height: 226px;
+  position: static;
+}
+._6-bar-watt-2-linkage-canopy-hinge-3-d-print-prototype {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 1869px;
+}
+.frame-14 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 180px;
+  top: 1895px;
+}
+.image-30 {
+  flex-shrink: 0;
+  width: 153px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 153/200;
+}
+.image-31 {
+  flex-shrink: 0;
+  width: 180px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 180/200;
+}
+.image-32 {
+  flex-shrink: 0;
+  width: 165px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 165/200;
+}
+.group-30 {
+  width: 895px;
+  height: 777px;
+  position: static;
+}
+.first-principle-fea-analysis {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 2386px;
+}
+.group-29 {
+  width: 895px;
+  height: 745px;
+  position: static;
+}
+.group-26 {
+  width: 687px;
+  height: 263px;
+  position: static;
+}
+.fea-analysis {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 2418px;
+}
+.group-18 {
+  width: 687px;
+  height: 237px;
+  position: static;
+}
+.group-14 {
+  width: 687px;
+  height: 237px;
+  position: static;
+}
+.optimization {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.15em;
+  font-weight: 700;
+  position: absolute;
+  left: 223px;
+  top: 2444px;
+}
+.fea-von-mieses-stress {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.15em;
+  font-weight: 700;
+  position: absolute;
+  left: 416px;
+  top: 2444px;
+}
+.fea-displacement {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.15em;
+  font-weight: 700;
+  position: absolute;
+  left: 687px;
+  top: 2444px;
+}
+.image-2 {
+  width: 181px;
+  height: 222px;
+  position: absolute;
+  left: 180px;
+  top: 2459px;
+  object-fit: cover;
+}
+.image-4 {
+  width: 241px;
+  height: 222px;
+  position: absolute;
+  left: 381px;
+  top: 2459px;
+  object-fit: cover;
+}
+.image-5 {
+  width: 225px;
+  height: 222px;
+  position: absolute;
+  left: 642px;
+  top: 2459px;
+  object-fit: cover;
+}
+.group-27 {
+  width: 895px;
+  height: 226px;
+  position: static;
+}
+.titanium-weld-tensile-testing {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 2696px;
+}
+.frame-16 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 180px;
+  top: 2722px;
+}
+.image-38 {
+  flex-shrink: 0;
+  width: 149px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 149/200;
+}
+.image-39 {
+  flex-shrink: 0;
+  width: 134px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 134/200;
+}
+.image-40 {
+  flex-shrink: 0;
+  width: 532px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 532/200;
+}
+.group-28 {
+  width: 851px;
+  height: 226px;
+  position: static;
+}
+.brake-schematics-calculations {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 2937px;
+}
+.frame-17 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 180px;
+  top: 2963px;
+}
+.image-29 {
+  flex-shrink: 0;
+  width: 475px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 475/200;
+}
+.image-43 {
+  flex-shrink: 0;
+  width: 336px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 336/200;
+}
+.group-31 {
+  width: 640px;
+  height: 226px;
+  position: static;
+}
+.gd-t-engineering-drawings {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 3213px;
+}
+.frame-18 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 180px;
+  top: 3245px;
+}
+.image-8 {
+  flex-shrink: 0;
+  width: 300px;
+  height: 194px;
+  position: relative;
+  object-fit: cover;
+}
+.image-7 {
+  flex-shrink: 0;
+  width: 300px;
+  height: 193.91px;
+  position: relative;
+  object-fit: cover;
+}
+.group-34 {
+  width: 784px;
+  height: 499px;
+  position: static;
+}
+.documentation-works {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 3489px;
+}
+.group-33 {
+  width: 784px;
+  height: 467px;
+  position: static;
+}
+.group-39 {
+  width: 736px;
+  height: 226px;
+  position: static;
+}
+.frame-19 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 177px;
+  top: 3788px;
+}
+.image-44 {
+  flex-shrink: 0;
+  width: 358px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 358/200;
+}
+.image-45 {
+  flex-shrink: 0;
+  width: 338px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 338/200;
+}
+.bills-of-materials-design-requirements-dfmea-etc {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 3762px;
+  width: 500px;
+}
+.group-32 {
+  width: 781px;
+  height: 226px;
+  position: static;
+}
+.design-review-documents-slides {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 3521px;
+}
+.frame-20 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 180px;
+  top: 3547px;
+}
+.image-48 {
+  flex-shrink: 0;
+  width: 154px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 154/200;
+}
+.image-47 {
+  flex-shrink: 0;
+  width: 150px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 150/200;
+}
+.image-46 {
+  flex-shrink: 0;
+  width: 397px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 397/200;
+}
+.image-59 {
+  border-radius: 10px;
+  width: 131.74px;
+  height: 200px;
+  position: absolute;
+  left: 1016px;
+  top: 1211px;
+  object-fit: cover;
+  aspect-ratio: 131.74/200;
+}
+.group-77 {
+  position: absolute;
+  inset: 0;
+}
+.group-75 {
+  width: 548px;
+  height: 64px;
+  position: static;
+}
+.personal-projects {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 40px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 253px;
+  top: 9151px;
+  width: 500px;
+  height: 64px;
+}
+.pdf {
+  background: #d9d9d9;
+  border-radius: 10px;
+  width: 28px;
+  height: 30px;
+  position: absolute;
+  left: 205px;
+  top: 9168px;
+}
+.group-76 {
+  width: 795px;
+  height: 83px;
+  position: static;
+}
+.rectangle-9 {
+  background: #d9d9d9;
+  border-radius: 10px;
+  width: 795px;
+  height: 83px;
+  position: absolute;
+  left: 180px;
+  top: 9241px;
+}
+.projects-on-the-way {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 206px;
+  top: 9269px;
+}
+.wolverbot-kickerws {
+  position: absolute;
+  inset: 0;
+}
+.group-10 {
+  width: 536px;
+  height: 247px;
+  position: static;
+}
+.wolver-bot-kickers2 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 40px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 253px;
+  top: 4138px;
+  width: 500px;
+  height: 64px;
+}
+.founding-vice-president {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 429px;
+  top: 4193px;
+}
+._2023-sep {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 253px;
+  top: 4193px;
+}
+.robot-leg-initial-design-2026-robo-cup-humanoid-league {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 318px;
+  top: 4268px;
+}
+.architecture-strategy-2026-robo-cup-3-d-simulation-league {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 318px;
+  top: 4314px;
+}
+.kinematic-simulation-2026-robo-cup-3-d-simulation-league {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 318px;
+  top: 4337px;
+}
+.dynamic-analysis {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 318px;
+  top: 4360px;
+}
+.robot-legs-arms-mock-up-2026-robo-cup-humanoid-league {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 318px;
+  top: 4291px;
+}
+._2024-may {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 344px;
+  top: 4193px;
+}
+.present2 {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 344px;
+  top: 4209px;
+}
+._2024-aug2 {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 253px;
+  top: 4209px;
+}
+._20233 {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 270px;
+  top: 4268px;
+}
+._20243 {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 270px;
+  top: 4291px;
+}
+._20253 {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 270px;
+  top: 4360px;
+}
+.president {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 429px;
+  top: 4209px;
+}
+.project-list2 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Bold", sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.15em;
+  font-weight: 700;
+  position: absolute;
+  left: 253px;
+  top: 4242px;
+  width: 150px;
+}
+.line-5 {
+  width: 120px;
+  height: 0px;
+  position: absolute;
+  left: 260.5px;
+  top: 4265px;
+  overflow: visible;
+}
+.ellipse-22 {
+  background: #4a4a4a;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  left: 258px;
+  top: 4365px;
+}
+.ellipse-32 {
+  background: #4a4a4a;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  left: 258px;
+  top: 4296px;
+}
+.ellipse-42 {
+  background: #4a4a4a;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  left: 258px;
+  top: 4273px;
+}
+.group-46 {
+  width: 879px;
+  height: 874px;
+  position: static;
+}
+.group-42 {
+  width: 643px;
+  height: 258px;
+  position: static;
+}
+.mechanical-design-prototype {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 4464px;
+}
+.group-40 {
+  width: 643px;
+  height: 226px;
+  position: static;
+}
+.humanoid-leg {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 4496px;
+}
+.frame-21 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 180px;
+  top: 4522px;
+}
+.image-49 {
+  flex-shrink: 0;
+  width: 129px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 129/200;
+}
+.image-50 {
+  flex-shrink: 0;
+  width: 117px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 117/200;
+}
+.image-51 {
+  flex-shrink: 0;
+  width: 181px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 181/200;
+}
+.image-52 {
+  flex-shrink: 0;
+  width: 96px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 96/200;
+}
+.group-43 {
+  width: 497px;
+  height: 258px;
+  position: static;
+}
+.kinematics-simulation {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 180px;
+  top: 4772px;
+}
+.group-41 {
+  width: 497px;
+  height: 226px;
+  position: static;
+}
+.kinematic-calculation-reinforcement-learning {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 180px;
+  top: 4804px;
+}
+.frame-22 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 180px;
+  top: 4830px;
+}
+.image-54 {
+  flex-shrink: 0;
+  width: 148px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 148/200;
+}
+.image-53 {
+  flex-shrink: 0;
+  width: 309px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 309/200;
+}
+.group-45 {
+  width: 879px;
+  height: 258px;
+  position: static;
+}
+.system-integration {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 5080px;
+}
+.group-44 {
+  width: 879px;
+  height: 226px;
+  position: static;
+}
+.robo-cup-game-strategy {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 5112px;
+}
+.frame-23 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 180px;
+  top: 5138px;
+}
+.image-55 {
+  flex-shrink: 0;
+  width: 447px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 447/200;
+}
+.image-56 {
+  flex-shrink: 0;
+  width: 422px;
+  height: 150px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 422/150;
+}
+.image-57 {
+  border-radius: 10px;
+  width: 252px;
+  height: 168px;
+  position: absolute;
+  left: 837px;
+  top: 4215px;
+  object-fit: cover;
+  aspect-ratio: 3/2;
+}
+.robo-cup-leagues-2026-intended {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 848px;
+  top: 4391px;
+}
+.mmint-lab2 {
+  position: absolute;
+  inset: 0;
+}
+.group-11 {
+  width: 500px;
+  height: 181px;
+  position: static;
+}
+.mmint-lab3 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 40px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 253px;
+  top: 5488px;
+  width: 500px;
+  height: 64px;
+}
+.undergraduate-research-assistant {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 429px;
+  top: 5543px;
+}
+._2023-jan {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 253px;
+  top: 5543px;
+}
+.sponge-tactile-sensor-development {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 318px;
+  top: 5602px;
+}
+._4-finger-tactile-sensor-integrated-robot-hand-module {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 318px;
+  top: 5648px;
+}
+.kuka-robot-arm-control-manipulation-studies {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 318px;
+  top: 5625px;
+}
+.present3 {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 344px;
+  top: 5543px;
+}
+._20234 {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 270px;
+  top: 5602px;
+}
+._20244 {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 270px;
+  top: 5625px;
+}
+._20254 {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 270px;
+  top: 5648px;
+}
+.project-list3 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Bold", sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.15em;
+  font-weight: 700;
+  position: absolute;
+  left: 253px;
+  top: 5576px;
+  width: 150px;
+}
+.line-52 {
+  width: 70px;
+  height: 0px;
+  position: absolute;
+  left: 260.5px;
+  top: 5599px;
+  overflow: visible;
+}
+.ellipse-23 {
+  background: #4a4a4a;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  left: 258px;
+  top: 5653px;
+}
+.ellipse-33 {
+  background: #4a4a4a;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  left: 258px;
+  top: 5630px;
+}
+.ellipse-43 {
+  background: #4a4a4a;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  left: 258px;
+  top: 5607px;
+}
+.participated-undergraduate-robotics-research-symposium {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 800px;
+  top: 5710px;
+  width: 300px;
+}
+.image-66 {
+  border-radius: 10px;
+  width: 265.72px;
+  height: 200px;
+  position: absolute;
+  left: 798px;
+  top: 5499px;
+  object-fit: cover;
+  aspect-ratio: 265.72/200;
+}
+.group-63 {
+  width: 857px;
+  height: 1928px;
+  position: static;
+}
+.group-61 {
+  width: 527px;
+  height: 232px;
+  position: static;
+}
+.electrical-circuit-design {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 5739px;
+}
+.frame-25 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 180px;
+  top: 5771px;
+}
+.image-58 {
+  flex-shrink: 0;
+  width: 337px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 337/200;
+}
+._9-f-6-ff-7-ac-5-e-28-49-e-2-882-b-2-b-8418-a-8-db-2-c-1-105-c-1 {
+  flex-shrink: 0;
+  width: 150px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 150/200;
+}
+.group-52 {
+  width: 751px;
+  height: 507px;
+  position: static;
+}
+.software-integration-ros {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 6303px;
+}
+.group-51 {
+  width: 751px;
+  height: 475px;
+  position: static;
+}
+.group-49 {
+  width: 718px;
+  height: 226px;
+  position: static;
+}
+.group-48 {
+  width: 562px;
+  height: 22px;
+  position: static;
+}
+.group-47 {
+  width: 562px;
+  height: 22px;
+  position: static;
+}
+.april-tag-integration {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 559px;
+  top: 6584px;
+}
+.rviz-integration {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 6584px;
+}
+.frame-28 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 180px;
+  top: 6610px;
+}
+.image-62 {
+  flex-shrink: 0;
+  width: 175px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 175/200;
+}
+.image-63 {
+  flex-shrink: 0;
+  width: 136px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 136/200;
+}
+.image-64 {
+  flex-shrink: 0;
+  width: 327px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 327/200;
+}
+.group-50 {
+  width: 751px;
+  height: 234px;
+  position: static;
+}
+.data-pointcloud-processing-using-gaussian-distribution {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 6335px;
+}
+.frame-27 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 180px;
+  top: 6369px;
+}
+.image-65 {
+  flex-shrink: 0;
+  width: 273px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 273/200;
+}
+.image-67 {
+  flex-shrink: 0;
+  width: 468px;
+  height: 100px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 468/100;
+}
+.group-62 {
+  width: 767px;
+  height: 232px;
+  position: static;
+}
+.mechanical-design {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 6021px;
+}
+.frame-26 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 180px;
+  top: 6053px;
+}
+.image-60 {
+  flex-shrink: 0;
+  width: 284px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 284/200;
+}
+.image-68 {
+  flex-shrink: 0;
+  width: 231px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 231/200;
+}
+.image-61 {
+  flex-shrink: 0;
+  width: 172px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 172/200;
+}
+.group-53 {
+  width: 760px;
+  height: 258px;
+  position: static;
+}
+.robot-arm-manipulation {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 188px;
+  top: 6860px;
+}
+.group-68 {
+  width: 760px;
+  height: 226px;
+  position: static;
+}
+.frame-29 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 184px;
+  top: 6918px;
+}
+.image-69 {
+  flex-shrink: 0;
+  width: 155px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 155/200;
+}
+.image-79 {
+  flex-shrink: 0;
+  width: 197px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 197/200;
+}
+.image-80 {
+  flex-shrink: 0;
+  width: 161px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 161/200;
+}
+.image-81 {
+  flex-shrink: 0;
+  width: 123px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 123/200;
+}
+.group-67 {
+  width: 732px;
+  height: 22px;
+  position: static;
+}
+.object-data-collection-using-kuka-robot-arm {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 180px;
+  top: 6892px;
+}
+.antipodal-grasping-with-pybullet {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 616px;
+  top: 6892px;
+}
+.group-60 {
+  width: 857px;
+  height: 499px;
+  position: static;
+}
+.group-58 {
+  width: 857px;
+  height: 467px;
+  position: static;
+}
+.group-55 {
+  width: 677px;
+  height: 226px;
+  position: static;
+}
+.frame-30 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 180px;
+  top: 7226px;
+}
+.image-70 {
+  flex-shrink: 0;
+  width: 346px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 346/200;
+}
+.image-72 {
+  flex-shrink: 0;
+  width: 257px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 257/200;
+}
+.group-54 {
+  width: 673px;
+  height: 22px;
+  position: static;
+}
+.cad-design {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 7200px;
+}
+.adams-motion-power-analysis {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 566px;
+  top: 7200px;
+}
+.group-57 {
+  width: 857px;
+  height: 226px;
+  position: static;
+}
+.frame-31 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 180px;
+  top: 7467px;
+}
+.image-71 {
+  flex-shrink: 0;
+  width: 455px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 455/200;
+}
+.image-73 {
+  flex-shrink: 0;
+  width: 362px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 362/200;
+}
+.group-56 {
+  width: 642px;
+  height: 22px;
+  position: static;
+}
+.bills-of-materials {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 675px;
+  top: 7441px;
+}
+.design-requirements {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 7441px;
+}
+.group-59 {
+  width: 831px;
+  height: 22px;
+  position: static;
+}
+.on-going-project-4-finger-robot-hand-module {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 7168px;
+  width: 500px;
+}
+.modified-tilburg-hand-integrating-gel-slim-4-0-on-the-finger {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 614px;
+  top: 7171px;
+}
+.biomeme {
+  position: absolute;
+  inset: 0;
+}
+.group-19 {
+  width: 585px;
+  height: 223px;
+  position: static;
+}
+.biomeme2 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 40px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 253px;
+  top: 7817px;
+  width: 500px;
+  height: 64px;
+}
+.pdf2 {
+  background: rgba(217, 217, 217, 0);
+  width: 28px;
+  height: 30px;
+  position: absolute;
+  left: 205px;
+  top: 7834px;
+}
+.product-and-mechanical-designer {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 429px;
+  top: 7872px;
+}
+._2021-sep {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 253px;
+  top: 7872px;
+}
+.ck-30-urine-analyzer-product-ideation-design {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 318px;
+  top: 7947px;
+}
+.government-funded-technology-development-project {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 318px;
+  top: 7993px;
+}
+.bluetooth-module-integration-security-enhancement-proejct {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 318px;
+  top: 8016px;
+}
+.ck-30-urine-analyzer-design-system-integration {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 318px;
+  top: 7970px;
+}
+._2022-aug2 {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 344px;
+  top: 7872px;
+}
+._2023-jul {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 344px;
+  top: 7888px;
+}
+._2023-may {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 253px;
+  top: 7888px;
+}
+._2021 {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 270px;
+  top: 7947px;
+}
+._20223 {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 270px;
+  top: 7970px;
+}
+._20235 {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 270px;
+  top: 8016px;
+}
+.project-manager {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 429px;
+  top: 7888px;
+}
+.project-list4 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Bold", sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.15em;
+  font-weight: 700;
+  position: absolute;
+  left: 253px;
+  top: 7921px;
+  width: 150px;
+}
+.line-7 {
+  width: 96px;
+  height: 0px;
+  position: absolute;
+  left: 260.5px;
+  top: 7944px;
+  overflow: visible;
+}
+.ellipse-8 {
+  background: #4a4a4a;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  left: 258px;
+  top: 8021px;
+}
+.ellipse-9 {
+  background: #4a4a4a;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  left: 258px;
+  top: 7975px;
+}
+.ellipse-10 {
+  background: #4a4a4a;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  left: 258px;
+  top: 7952px;
+}
+.group-66 {
+  width: 616px;
+  height: 232px;
+  position: static;
+}
+.frame-32 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 180px;
+  top: 8142px;
+}
+.image-74 {
+  flex-shrink: 0;
+  width: 301px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 301/200;
+}
+.image-75 {
+  flex-shrink: 0;
+  width: 275px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 275/200;
+}
+.group-65 {
+  width: 561px;
+  height: 22px;
+  position: static;
+}
+.product-design {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 8110px;
+}
+.intended-release-in-2026-3-th-quarter-at-chungdo-pharm-co {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 335px;
+  top: 8113px;
+}
+.mand-ro {
+  position: absolute;
+  inset: 0;
+}
+.group-72 {
+  width: 715px;
+  height: 509px;
+  position: static;
+}
+.group-12 {
+  width: 597px;
+  height: 181px;
+  position: static;
+}
+.mand-ro2 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 40px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 253px;
+  top: 8492px;
+  width: 500px;
+  height: 64px;
+}
+.mechanical-engineering-intern {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 429px;
+  top: 8547px;
+}
+._2021-aug {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 253px;
+  top: 8547px;
+}
+.sponge-tactile-sensor-development2 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 318px;
+  top: 8606px;
+}
+._4-finger-tactile-sensor-integrated-robot-hand-module-development {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 318px;
+  top: 8652px;
+}
+.kuka-robot-arm-control-manipulation-studies2 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 318px;
+  top: 8629px;
+}
+._2021-sep2 {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 344px;
+  top: 8547px;
+}
+._20212 {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 270px;
+  top: 8606px;
+}
+.project-list5 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Bold", sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.15em;
+  font-weight: 700;
+  position: absolute;
+  left: 253px;
+  top: 8580px;
+  width: 150px;
+}
+.line-53 {
+  width: 70px;
+  height: 0px;
+  position: absolute;
+  left: 260.5px;
+  top: 8603px;
+  overflow: visible;
+}
+.ellipse-44 {
+  background: #4a4a4a;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  left: 258px;
+  top: 8611px;
+}
+.group-71 {
+  width: 715px;
+  height: 258px;
+  position: static;
+}
+.mechanical-design2 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 8743px;
+}
+.group-70 {
+  width: 715px;
+  height: 226px;
+  position: static;
+}
+.group-69 {
+  width: 711px;
+  height: 22px;
+  position: static;
+}
+.electrode-sensor-housing {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 8775px;
+}
+.charge-module-cradle {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 682px;
+  top: 8775px;
+}
+.frame-33 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 180px;
+  top: 8801px;
+}
+.image-76 {
+  flex-shrink: 0;
+  width: 150px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 150/200;
+}
+.image-77 {
+  flex-shrink: 0;
+  width: 268px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 268/200;
+}
+.image-78 {
+  flex-shrink: 0;
+  width: 150px;
+  height: 200px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 150/200;
+}
+.group-73 {
+  width: 184px;
+  height: 319px;
+  position: static;
+}
+.img-1886-1 {
+  border-radius: 10px;
+  width: 168.75px;
+  height: 300px;
+  position: absolute;
+  left: 917px;
+  top: 8492px;
+  object-fit: cover;
+  aspect-ratio: 168.75/300;
+}
+.ces-2024-innovation-award {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 917px;
+  top: 8795px;
+}
+.rectangle-10 {
+  background: #d9d9d9;
+  width: 1280px;
+  height: 100px;
+  position: absolute;
+  left: -2px;
+  top: 9400px;
+}
+.jay-lee-mechanical-robotics-design-portfolio {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 72px;
+  top: 9436px;
+}
+.jay-lee-mechanical-robotics-design-portfolio-span {
+  font-family: "NotoSans-DisplayBold", sans-serif;
+}
+.jay-lee-mechanical-robotics-design-portfolio-span2 {
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+}
+.email-jayleey-521-gmail-com2 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayRegular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: 940px;
+  top: 9436px;
+}
+.mask-group5 {
+  height: auto;
+  position: absolute;
+  left: 205px;
+  top: 8509px;
+  overflow: visible;
+}
+.mask-group6 {
+  height: auto;
+  position: absolute;
+  left: 205px;
+  top: 5505px;
+  overflow: visible;
+}
+.mask-group7 {
+  height: auto;
+  position: absolute;
+  left: 205px;
+  top: 4155px;
+  overflow: visible;
+}
+.mask-group8 {
+  height: auto;
+  position: absolute;
+  left: 630px;
+  top: 392px;
+  overflow: visible;
+}
+.mask-group9 {
+  height: auto;
+  position: absolute;
+  left: 412.94px;
+  top: 392.5px;
+  overflow: visible;
+}
+.mask-group10 {
+  height: auto;
+  position: absolute;
+  left: 197px;
+  top: 1249px;
+  overflow: visible;
+}
+.mask-group11 {
+  height: auto;
+  position: absolute;
+  left: 198.94px;
+  top: 392.5px;
+  overflow: visible;
+}
+.mask-group12 {
+  height: auto;
+  position: absolute;
+  left: 744px;
+  top: 123px;
+  overflow: visible;
+}
+.mask-group13 {
+  height: auto;
+  position: absolute;
+  left: 780px;
+  top: 123px;
+  overflow: visible;
+}
