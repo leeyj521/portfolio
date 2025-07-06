@@ -90,7 +90,7 @@
   letter-spacing: 0.1em;
   font-weight: 400;
   position: relative;
-  width: 220px;
+  align-self: stretch;
   height: 19px;
 }
 .ann-arbor-mi {
@@ -101,7 +101,7 @@
   letter-spacing: 0.1em;
   font-weight: 400;
   position: relative;
-  width: 200px;
+  align-self: stretch;
   height: 19px;
 }
 .hi-i-m-jay-a-mechanical-engineering-student-at-the-university-of-michigan {
